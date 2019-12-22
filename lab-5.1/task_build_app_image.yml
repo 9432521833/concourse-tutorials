@@ -3,7 +3,7 @@ platform: linux
 
 image_resource:
   type: docker-image
-  source: {repository: khozemanullwala/simple-java-cache, tag: "latest"}
+  source: {repository: 9432521833/simple-java-cache, tag: "latest"}
 
 inputs:
 - name: concourse-tutorials
